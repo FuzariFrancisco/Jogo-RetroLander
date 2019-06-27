@@ -61,7 +61,7 @@ public class GameController : MonoBehaviour
 
     public void OnGameOver()
     {
-        menuPause.SetActive(true);
+        menuGameOver.SetActive(true);
         gameHUD.SetActive(false);
         Time.timeScale = 0;
     }

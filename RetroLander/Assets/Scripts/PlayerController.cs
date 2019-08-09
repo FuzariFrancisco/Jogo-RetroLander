@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     public float velocidade = 50f;
     public float combustivel = 1000f;
     public float consumoCombustivel = 1f;
-    public float velocidadeLimitePouso = 50f;
+    public float velocidadeLimitePouso = 80f;
 
     public LayerMask raycastLayerMask;
 

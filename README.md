@@ -1,11 +1,20 @@
 # Jogo - Retro Lander
-## Por: Francisco Henrique da Silva Fuzari de Souza
+Por: [***Francisco Henrique***](https://www.linkedin.com/in/francisco-henrique-010912189)
 
-### Este projeto é um jogo 2D criado na Unity com C#, Um jogo desafiador, onde paciência e precisão são importantes para sua vitória. 
+### -Projeto desenvolvido utilizando á *Game Engine* [Unity](https://unity.com/) com C#.
+
+## Objetivo
+- Apresentar e Orientar como funciona o Game Retro Lander, Projeto 2D.
 
 ![Capa RetroLander](Imagens-ReadMe/Capa-RetroLander.PNG)
 
-### O jogo possui apenas uma fase, onde seu objetivo é pousar a nave em segurança em uma das plataformas, você deve controlar o ângulo da nave e sua propulsão, para não colidir com muita velocidade nas plataformas e explodir ao pousar.
+### Gameplay
+- O jogo possui apenas uma fase, onde seu objetivo é pousar a nave em segurança em uma das plataformas, você deve controlar o ângulo da nave e sua propulsão, para não colidir com muita velocidade nas plataformas e explodir ao pousar.
+
+### Controles
+* **Seta direcional para Cima:** Impulsiona a Nave para o ângulo em que a nave está direcionada.
+* **Seta direcional Esquerda:** Rotaciona o ângulo da nave para a esquerda.
+* **Seta direcional Direita:** Rotaciona o ângulo da nave para a direita.
 
 ![Capa RetroLander](Imagens-ReadMe/Game-RetroLander.PNG)
 

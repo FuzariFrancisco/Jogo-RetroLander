@@ -1,5 +1,5 @@
 # Jogo - Retro Lander
-Por: [***Francisco Henrique***](https://www.linkedin.com/in/francisco-henrique-010912189)
+Por: [***Francisco Henrique***](https://www.linkedin.com/in/francisco-fuzari-010912189/)
 
 ### -Projeto desenvolvido utilizando á *Game Engine* [Unity](https://unity.com/) com C#.
 
